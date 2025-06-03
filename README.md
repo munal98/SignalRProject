@@ -1,6 +1,4 @@
 # 🍽️ SignalR Restoran Sipariş Yönetim Sistemi
-
-Bu proje, **Murat Yücedeğ** tarafından hazırlanan [Udemy eğitimini](https://www.udemy.com/course/aspnet-core-api-signalr-ile-qr-kodlu-siparis-yonetimi/) takip ederek geliştirilmiştir.  
 Restoranın QR kod ile masa tanıma, anlık sipariş takibi, canlı mesajlaşma ve bildirim gibi işlemleri yapabildiği gerçek zamanlı bir sistem sunmaktadır.
 
 ## 📌 Proje Özellikleri
@@ -24,11 +22,12 @@ Restoranın QR kod ile masa tanıma, anlık sipariş takibi, canlı mesajlaşma 
 - **QRCode Generator**
 
 ## 📸 Ekran Görüntüleri
+![Image](https://github.com/user-attachments/assets/3697f019-7c94-4c5e-9df6-93760b9e6098)
 
-> Projeye ait ekran görüntülerini buraya ekleyebilirsiniz.
+![Image](https://github.com/user-attachments/assets/622e0969-7b33-444b-914f-abdc30018aa6)
 
-## 🚀 Başlamak İçin
+![Image](https://github.com/user-attachments/assets/74f4f870-afb7-4589-81e7-acc1f836ccb7)
 
-1. Bu repoyu klonlayın:
-   ```bash
-   git clone https://github.com/kullaniciAdi/signalr-restoran.git
+![Image](https://github.com/user-attachments/assets/6ace675b-b203-44f8-8b11-b325ff4628d4)
+
+
