@@ -37,3 +37,7 @@ Restoranın QR kod ile masa tanıma, anlık sipariş takibi, canlı mesajlaşma 
 ![Image](https://github.com/user-attachments/assets/cd044649-0050-45dc-8c33-5e01ab3d5a85)
 
 ![Image](https://github.com/user-attachments/assets/76ce28c5-5a0b-415b-a5d9-1b219715b340)
+
+![Image](https://github.com/user-attachments/assets/20d3bfff-52fd-4f4c-8d06-9855d8bcfb18)
+
+![Image](https://github.com/user-attachments/assets/3f196ecd-6449-49c1-839a-31db841b4c8d)
