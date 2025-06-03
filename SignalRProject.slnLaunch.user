@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SignalRWebUI\\SignalRWebUI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SignalRApi\\SignalRApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
